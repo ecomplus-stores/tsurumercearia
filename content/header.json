@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Exclusivo para Brasília-DF: Entrega Rápida em até 3 horas!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "color": "#f7f3f3"
   },
   "contacts_stripe": {
     "pages": [],
