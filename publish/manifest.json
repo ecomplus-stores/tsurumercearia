@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5a8911bbd05ba1d06f12814cfaebd9a0.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.bad3e892c0c75c63c4483c51537fa4f4.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.91d31d9d1a4461e981f6d1f2eed9b263.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d84ed0af2b4255591312d6a469822ce6.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.392de2c14ab872a5d1a1d622161a08ff.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "tsurumercearia",
+  "short_name": "tsurumercearia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "tsurumercearia",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
