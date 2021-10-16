@@ -1,18 +1,20 @@
 {
   "marketing_stripe": {
     "text": "Exclusivo para Brasília-DF: Entrega Rápida em até 3 horas!",
-    "link": "/promotion",
+    "link": "template/public/img/uploads/banner_tsuru_mercearia_brasilia_asa_norte_kfood.fw.png",
     "color": "#f7f3f3"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {}
+    ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
